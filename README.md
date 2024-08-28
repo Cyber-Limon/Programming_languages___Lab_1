@@ -1,1 +1,1 @@
-# Programming_languages___Lab_1
+# Языки программирования   Л/р 1
